@@ -1,0 +1,57 @@
+{
+    "name": "Dark++",
+    "author": "Kent Leo L. Makibulan",
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "theme": {
+        "colors": {
+            "bookmark_text": "#ffffff",
+
+            "button_background_active": "#505154",
+            "button_background_hover": "#454649",
+
+            "icons": "#f1f3f4",
+            "icons_attention": "#eaeaea",
+
+            "frame": "#202124",
+            "frame_inactive": "#3c4043",
+
+            "ntp_background": "#35363a",
+            "ntp_text": "#ffffff",
+
+            "popup": "#292a2d",
+            "popup_border": "#3c4043",
+            "popup_highlight": "#444547",
+            "popup_highlight_text": "#ffffff",
+            "popup_text": "#ffffff",
+
+            "sidebar": "#292a2d",
+            "sidebar_border": "3c4043",
+            "sidebar_highlight": "#444547",
+            "sidebar_highlight_text": "#ffffff",
+            "sidebar_text": "#ffffff",
+
+            "tab_background_separator": "#545454",
+            "tab_background_text": "#eeeeee",
+            "tab_line": "#ffffff",
+            "tab_loading": "#ffffff",
+            "tab_selected": "#35363a",
+            "tab_text": "#ffffff",
+
+            "toolbar": "#35363a",
+            "toolbar_bottom_separator": "#282828",
+            "toolbar_field": "#202124",
+            "toolbar_field_border": "#202124",
+            "toolbar_field_border_focus": "#202124",
+            "toolbar_field_focus": "#202124",
+            "toolbar_field_highlight": "#444547",
+            "toolbar_field_highlight_text": "#ffffff",
+            "toolbar_field_separator": "#363739",
+            "toolbar_field_text": "#ffffff",
+            "toolbar_field_text_focus": "#ffffff",
+            "toolbar_text": "#ffffff",
+            "toolbar_top_separator": "#35363a",
+            "toolbar_vertical_separator": "#6e7073"
+        }
+    }
+}
