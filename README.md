@@ -1,5 +1,5 @@
 # Dark++
-> v1.0.0
+> v1.0.1
 
 Dark++ is a Firefox Theme based on the default dark theme of Chrome + some white accent color.
 
