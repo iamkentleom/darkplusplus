@@ -11,4 +11,4 @@ Browser|Link
 Firefox|tba
 
 ## License
-[MIT]()
+[CC0 1.0 Universal](./LICENSE)
