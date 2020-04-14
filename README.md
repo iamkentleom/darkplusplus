@@ -8,7 +8,7 @@ Dark++ is a Firefox Theme based on the default dark theme of Chrome + some white
 ## Download
 Browser|Link
 ---|---
-Firefox|tba
+Firefox|https://addons.mozilla.org/en-US/firefox/addon/darkplusplus/
 
 ## License
 [CC0 1.0 Universal](./LICENSE)
